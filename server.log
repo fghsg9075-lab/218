@@ -1,0 +1,17 @@
+
+> students@0.0.0 dev
+> vite
+
+Port 5000 is in use, trying another one...
+
+  VITE v6.4.1  ready in 456 ms
+
+  ➜  Local:   http://localhost:5001/
+  ➜  Network: http://192.168.0.2:5001/
+2:55:39 AM [vite] (client) hmr update /components/AdminDashboard.tsx
+2:55:39 AM [vite] (client) hmr update /components/AdminDashboard.tsx
+2:55:46 AM [vite] (client) hmr update /components/AdminDashboard.tsx
+4:09:37 AM [vite] (client) hmr update /components/LessonView.tsx
+4:10:18 AM [vite] (client) hmr update /components/AdminDashboard.tsx
+4:19:56 AM [vite] (client) hmr update /components/PdfView.tsx
+4:25:07 AM [vite] (client) hmr update /components/AdminDashboard.tsx

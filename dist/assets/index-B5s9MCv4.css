@@ -1,0 +1,1 @@
+.vercel-toast{display:none!important}@keyframes glow{0%{box-shadow:0 0 5px #ffffff80}50%{box-shadow:0 0 20px #fffc,0 0 10px #ffd70080}to{box-shadow:0 0 5px #ffffff80}}.animate-glow{animation:glow 2s infinite}.no-scrollbar::-webkit-scrollbar{display:none}.no-scrollbar{-ms-overflow-style:none;scrollbar-width:none}
